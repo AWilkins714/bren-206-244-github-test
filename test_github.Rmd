@@ -15,9 +15,9 @@ Here's some code (change the variable names and values):
 
 geese <- 79
 
-rabbits <- 69
+buns <- 69
 
-ratio <- rabbits/geese
+ratio <- buns/geese
 
 ```
 
